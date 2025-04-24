@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "844498983036",
+    "project_id": "wisprr-88de2",
+    "storage_bucket": "wisprr-88de2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844498983036:android:1ec4478c73d4df8a1811f9",
+        "android_client_info": {
+          "package_name": "com.example.whisprr_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844498983036-l1e4vvtksqob6d36jjbccumqknvej66g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.whisprr_mobile",
+            "certificate_hash": "95ec4a7e8e120deb84656af587301b7506a8fb54"
+          }
+        },
+        {
+          "client_id": "844498983036-20dgqir1qu699vc13g6vuk46qnd2ho24.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfcPIAZcbPqmeSn72hKPkMi3LC4qNAcP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "844498983036-20dgqir1qu699vc13g6vuk46qnd2ho24.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "844498983036-69pu5kpafm3eg68seaenl164hfj8hp42.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.whisprrMobile"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
