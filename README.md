@@ -1,0 +1,2 @@
+# whisprr
+ai chat app
